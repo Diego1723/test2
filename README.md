@@ -113,8 +113,7 @@ c
 
 **Paso 5**: Por último, ejecutamos el archivo principal (**main**) del proyecto. Cabe destacar que este ejemplo se realizó desde la terminal del sistema operativo, pero también es posible hacerlo desde la terminal integrada de **Visual Studio (VS)**.
 
-- "!['Installing collected packages'
-'Successfully installed'](README/Aspose.Words.bebe987a-a083-4df8-a694-4a146bdd5bbf.016.png)"
+- "!['Installing collected packages''Successfully installed'](README/Aspose.Words.bebe987a-a083-4df8-a694-4a146bdd5bbf.016.png)"
 
 
 
