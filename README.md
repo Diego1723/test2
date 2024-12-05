@@ -38,7 +38,7 @@ Sigue estos pasos para instalar y configurar el proyecto:
 
 
 - ![Aspose Words bebe987a-a083-4df8-a694-4a146bdd5bbf 001](https://github.com/user-attachments/assets/96150794-0333-45cd-81f5-358422064037)
-![git clone](test/README/Aspose.Words.bebe987a-a083-4df8-a694-4a146bdd5bbf.001.png)
+![git clone](test2/README/Aspose.Words.bebe987a-a083-4df8-a694-4a146bdd5bbf.001.png)
 
 
 **3**. **Ingreso al entorno virtual global** Asegúrate de tener configurado tu entorno virtual global (**global\_post\_env)** y actívalo
