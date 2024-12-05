@@ -42,7 +42,7 @@ Sigue estos pasos para instalar y configurar el proyecto:
 
 
 **3**. **Ingreso al entorno virtual global** Asegúrate de tener configurado tu entorno virtual global (**global\_post\_env)** y actívalo
-
+c
   **Paso 1**: Ingreso y Activación de Conda en la Terminal
 
   - Abrir la terminal: Accede a la terminal desde tu sistema operativo.
